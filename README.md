@@ -159,3 +159,13 @@ PAI - Programowanie Aplikacji Internetowych
 Laboratorium // TODO hiperłącza
 
 
+RRO - Rendering Realistycznych Obrazów
+
+Laboratorium // TODO hiperłącza
+
+
+ZAOWIR - Zaawansowana Analiza Obrazu, Wideo i Ruchu
+
+Laboratorium // TODO hiperłącza
+
+
