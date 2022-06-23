@@ -1,7 +1,7 @@
 // TODO - umieścić laboratoria na githubie
 
 # Studia
-Repozytorium zawiera prace deweloperskie realizowane na laboratorium na studiach.
+Repozytorium zawiera prace deweloperskie realizowane w trakcie studiowania.
 
 ## Zawartość
 
@@ -169,3 +169,33 @@ ZAOWIR - Zaawansowana Analiza Obrazu, Wideo i Ruchu
 Laboratorium // TODO hiperłącza
 
 
+#### Semestr 3
+
+ESIwGK - Elementy Sztucznej Inteligencji w Grach Komputerowych
+
+Laboratorium // TODO hiperłącza
+
+
+SWiRR - Systemy Wirtualnej i Rozszerzonej Rzeczywistości
+
+Laboratorium // TODO hiperłącza
+
+Końcowy Projekt // TODO hiperłącza
+
+
+TPDiA - Teoria Przestrzeni Danych i Algorytmów
+
+Końcowy Projekt // TODO hiperłącza
+
+
+## Prace dyplomowe
+
+### Praca inżynierska
+
+
+### Praca magisterska
+
+
+## Współautorstwo 
+
+Współautorzy są wymienieni w plikach 'readme' w odpowiednich katalogach. Jeżeli ktoś nie jest wymieniony, proszę o kontakt.
