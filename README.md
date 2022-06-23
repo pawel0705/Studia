@@ -57,7 +57,7 @@ MS - Metody Statystyczne. Projekt statystyczny w języku R.
 
 Końcowy Projekt // TODO hiperłącza
 
-##### Semestr 5
+#### Semestr 5
 
 JA - Języki Asemblerowe. Proste programy z użyciem asemblera.
 
@@ -85,7 +85,7 @@ TM - Technologie Mobilne. Tworzenie prostych aplikacji mobilnych na telefony z s
 
 Laboratorium // TODO hiperłącza
 
-###### Semestr 6
+#### Semestr 6
 
 BIAI - Biologically Inspired Artificial Intelligence. Przedmiot poruszający zagadnienia sztucznej inteligencji i algorytmów ewolucyjnych.
 
@@ -103,7 +103,7 @@ Laboratorium
 
 Końcowy Projekt // TODO hiperłącza
 
-###### Semestr 7
+#### Semestr 7
 
 DLiP - Deep Learning in Python. Wykorzystanie biblioteki TensorFlow i głębokie uczenie w języku Python.
 
@@ -116,7 +116,7 @@ Końcowy Projekt // TODO hiperłącza
 
 ### Studia magisterskie
 
-###### Semestr 1
+#### Semestr 1
 PwAG - Programowanie w API Graficznych. Poruszane zagadnienia z OpenGL i DirectX.
 
 Laboratorium // TODO hiperłącza
@@ -127,7 +127,7 @@ ZTPGK - Zaawansowane Techniki Programowania Grafiki Komputerowej. Grafika wysoko
 Laboratorium // TODO hiperłącza
 
 
-###### Semestr 2
+#### Semestr 2
 
 DGM - Dostępność w Grach Mobilnych. Poruszanie zagadnień niepełnosprwawności i tworzenia aplikacji dla takich osób.
 
@@ -139,4 +139,23 @@ PwAG - Programowanie w API Graficznych. Utworzenie aplikacji graficznej w OpenGL
 Końcowy Projekt // TODO hiperłącza
 
 
-PGK - Programowanie Gier Komputerowych. Poruszanie zagadnień odnośnie tworz
+PGK - Programowanie Gier Komputerowych. Poruszanie zagadnień odnośnie tworzenia gier komputerowych.
+
+Laboratorium // TODO hiperłącza
+
+
+PPP - Praktyka Programowania Python. Programowanie w języku Python.
+
+Laboratorium // TODO hiperłącza
+
+
+OiRPOS - Organizacja i Zarządzanie Projektami Open Source
+
+Laboratorium // TODO hiperłącza
+
+
+PAI - Programowanie Aplikacji Internetowych
+
+Laboratorium // TODO hiperłącza
+
+
