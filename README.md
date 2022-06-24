@@ -38,7 +38,7 @@ W tej sekcji zostaną wymienione i przedstawione hiperłącza do wykonanych prac
 
 #### Semestr 3
 
-<PK3> - Programowanie Komputerów 3. Programowanie obiektowe w języku C++.
+<b>PK3</b> - Programowanie Komputerów 3. Programowanie obiektowe w języku C++.
 
 Laboratorium
 
