@@ -88,18 +88,15 @@ W tej sekcji zostaną wymienione i przedstawione hiperłącza do wykonanych prac
 
 <b>GK</b> - Grafika Komputerowa. Poruszane zagandniania z OpenGL i Unity.
 
-Laboratorium
-
-Końcowy Projekt // TODO hiperłącza
+[Końcowy Projekt](https://github.com/pawel0705/Gra-Strzelanka-3D-Unity) - gra FPS w Unity
 
 #### Semestr 7
 
-DLiP - Deep Learning in Python. Wykorzystanie biblioteki TensorFlow i głębokie uczenie w języku Python.
+<b>DLiP</b> - Deep Learning in Python. Wykorzystanie biblioteki TensorFlow i głębokie uczenie w języku Python.
 
-Laboratorium // TODO hiperłącza
+[Laboratorium](https://github.com/pawel0705/PythonTensorflowStuff) - Pythonowe JupyterNotebooki przedstawiające podstawowe wykorzystywanie sieci neuronowych przy pomocy biblioteki TensorFlow.
 
-
-PwSGU - Programowanie w Silniku Gier Unity. Tworzenie aplikacji z wykorzystaniem silnika Unity
+<b>PwSGU</b> - Programowanie w Silniku Gier Unity. Tworzenie aplikacji z wykorzystaniem silnika Unity
 
 Końcowy Projekt // TODO hiperłącza
 
