@@ -30,15 +30,15 @@ W tej sekcji zostaną wymienione i przedstawione hiperłącza do wykonanych prac
 
 #### Semestr 2
 
-PK2 - Programowanie Komputerów 2. Programowanie strukturalne w języku C.
+<b>PK2</b> - Programowanie Komputerów 2. Programowanie strukturalne w języku C.
 
-Laboratorium
+[Laboratorium](https://github.com/pawel0705/Programy-konsolowe-w-C) - proste programy konsolowe w języku C
 
-Końcowy Projekt // TODO hiperłącza
+[Końcowy Projekt](https://github.com/pawel0705/Fractal-Generator) - Aplikacja konsolowa generująca fraktale i zapisująca je do plików graficznych
 
 #### Semestr 3
 
-PK3 - Programowanie Komputerów 3. Programowanie obiektowe w języku C++.
+<PK3> - Programowanie Komputerów 3. Programowanie obiektowe w języku C++.
 
 Laboratorium
 
