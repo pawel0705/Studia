@@ -161,11 +161,15 @@ Końcowy Projekt // TODO hiperłącza
 
 ## Prace dyplomowe
 
+Prace dyplomowe zrealizowane w trakcie studiów.
+
 ### Praca inżynierska
 
+// TODO
 
 ### Praca magisterska
 
+// TODO
 
 ## Współautorstwo 
 
