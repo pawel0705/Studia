@@ -24,9 +24,9 @@ W tej sekcji zostaną wymienione i przedstawione hiperłącza do wykonanych prac
 
 <b>PPK</b> - Podstawy Programowania Komputerów. Programowanie strukturalne w języku C++.
 
-[!Laboratorium](https://github.com/pawel0705/Studia/tree/main/PPK)
+[Laboratorium](https://github.com/pawel0705/Studia/tree/main/PPK) - ćwiczenia realizowane w ramach zajęć
 
-Końcowy Projekt // TODO hiperłącza
+[Końcowy Projekt](https://github.com/pawel0705/Barnsley-fern) - Aplikacja konsolowa generująca paproć Barnsleya
 
 #### Semestr 2
 
