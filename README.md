@@ -22,7 +22,7 @@ W tej sekcji zostaną wymienione i przedstawione hiperłącza do wykonanych prac
 
 #### Semestr 1
 
-PPK - Podstawy Programowania Komputerów. Programowanie strukturalne w języku C++.
+<b>PPK</b> - Podstawy Programowania Komputerów. Programowanie strukturalne w języku C++.
 
 Laboratorium
 
