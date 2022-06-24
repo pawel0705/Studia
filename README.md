@@ -59,19 +59,19 @@ Laboratorium - pliki utracone :(
 
 #### Semestr 5
 
-<b>JA</b> - Języki Asemblerowe. Proste programy z użyciem asemblera.
+<b>JA</b> - Języki Asemblerowe
 
-Laboratorium // TODO hiperłącza
-
-
-JiUM - Java w Internecie i Urządzeniach Mobilnych. Programowanie w Javie.
-
-Laboratorium // TODO hiperłącza
+[Końcowy projekt](https://github.com/pawel0705/Anaglyph-Maker) - Program tworzący anaglify. GUI napisane w WinForms C#. 2 biblioteki tworzące anaglif utworzone w asemblerze i C++ (dla porównania czasu).
 
 
-SMiW - Systemy Mikroprocesorowe i Wbudowane. Tworzenie urządzeń zawierających mikroprocesory i ich oprogramowywanie.
+<b>JiUM</b> - Java w Internecie i Urządzeniach Mobilnych. Programowanie w Javie.
 
-Końcowy Projekt // TODO hiperłącza
+[Laboratorium](https://github.com/pawel0705/Statystyka-Meczy) - program "Statystyka Meczy" tworzony w ramach zajęć laboratoryjnych.
+
+
+<b>SMiW</b> - Systemy Mikroprocesorowe i Wbudowane. Tworzenie urządzeń zawierających mikroprocesory i ich oprogramowywanie.
+
+[Końcowy Projekt] // TODO hiperłącza
 
 
 BD - Bazy Danych.
