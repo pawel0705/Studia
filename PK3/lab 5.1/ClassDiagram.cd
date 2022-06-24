@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animal" Collapsed="true">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAABAQAAAQAIAAAEIAAAMQAJAKsAARAEABAA=</HashCode>
+      <FileName>Animal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cat" Collapsed="true">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAAAAAAAQAAAAAQAAAAAAAAQAAQAJAAgAgAAAACAA=</HashCode>
+      <FileName>Cat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dog" Collapsed="true">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAAAAAAAAAAAAAQAAAAAAACQAAQAJAAgAggAAAAAA=</HashCode>
+      <FileName>Dog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalSprite" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAEAAAAAAQIAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>AnimalSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADAAAAAAASQIBQCUgAABgBAAAACAAABAEAAAEBAAAA=</HashCode>
+      <FileName>Console.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Playground" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgIAAAiAAAAABABAAEAAAAAQAAAAEAACAAAA=</HashCode>
+      <FileName>Playground.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="console" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="animals" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Sprite" Collapsed="true">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAIAAEQAAAAAACQAABgAAAABAI=</HashCode>
+      <FileName>Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
