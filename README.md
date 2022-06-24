@@ -42,20 +42,20 @@ W tej sekcji zostaną wymienione i przedstawione hiperłącza do wykonanych prac
 
 [Laboratorium](https://github.com/pawel0705/Studia/tree/main/PK3) - ćwiczenia realizowane w ramach zajęć
 
-[Końcowy Projekt](https://github.com/pawel0705/Battle-City-2D-Game) - Battle Ciry. Gra 2D napisana w obiektowym C++ z wykorzystaniem biblioteki multimedialnej SFML
+[Końcowy Projekt](https://github.com/pawel0705/Battle-City-2D-Game) - Battle City. Gra 2D napisana w obiektowym C++ z wykorzystaniem biblioteki multimedialnej SFML. Jeżdżenie czołgiem i strzelanie do przeciwników.
 
 #### Semestr 4
 
 <b>PK4</b> - Programowanie Komputerów 4. Programowanie obiektowe w języku C++.
 
-Laboratorium
+Laboratorium - pliki utracone :(
 
-Końcowy Projekt // TODO hiperłącza
+[Końcowy Projekt](https://github.com/pawel0705/SimCity-2D-Game) - SimCity. Gra 2D napisana w obiektowym C++ z wykorzystaniem biblioteki multimedialnej SFML. Zarządzanie miastem.
 
 
-MS - Metody Statystyczne. Projekt statystyczny w języku R.
+<b>MS<b> - Metody Statystyczne. Projekt statystyczny w języku R.
 
-Końcowy Projekt // TODO hiperłącza
+[Końcowy Projekt](https://github.com/pawel0705/Badanie-poziomu-rentownosci) - Zbadanie poziomu rentowności firmy w 2 latach z użyciem języka R.
 
 #### Semestr 5
 
