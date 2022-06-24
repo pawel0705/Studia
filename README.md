@@ -42,7 +42,7 @@ W tej sekcji zostaną wymienione i przedstawione hiperłącza do wykonanych prac
 
 [Laboratorium](https://github.com/pawel0705/Studia/tree/main/PK3) - ćwiczenia realizowane w ramach zajęć
 
-[Końcowy Projekt](https://github.com/pawel0705/Battle-City-2D-Game) - gra 2D napisana w obiektowym C++ z wykorzystaniem biblioteki multimedialnej SFML
+[Końcowy Projekt](https://github.com/pawel0705/Battle-City-2D-Game) - Battle Ciry. Gra 2D napisana w obiektowym C++ z wykorzystaniem biblioteki multimedialnej SFML
 
 #### Semestr 4
 
