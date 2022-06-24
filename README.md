@@ -74,11 +74,11 @@ Laboratorium - pliki utracone :(
 [Końcowy Projekt](https://github.com/pawel0705/DataLogger) - zbudowanie i oprogramowanie urządzenia zbierającego temperaturę z otoczenia i zapisujące ją na kartę SD.
 
 
-BD - Bazy Danych.
+<b>BD</b> - Bazy Danych.
 
-Laboratorium // TODO hiperłącza
+[Laboratorium](https://github.com/pawel0705/Bazy-Danych-Laboratoria) - zadania laboratoryjne z baz danych
 
-Końcowy Projekt
+[Końcowy Projekt](https://github.com/pawel0705/Informacje-Turystyczne) - aplikacja bazodanowa webowa w .NET Core
 
 
 TM - Technologie Mobilne. Tworzenie prostych aplikacji mobilnych na telefony z systemem Android i iOS. Języki: Kotlin, Java, Swift.
