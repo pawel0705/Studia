@@ -130,9 +130,9 @@ PGK - Programowanie Gier Komputerowych. Poruszanie zagadnień odnośnie tworzeni
 Laboratorium // TODO hiperłącza
 
 
-PPP, OiRPOS, PAI - Praktyka Programowania Python, Organizacja i Zarządzanie Projektami Open Source, Programowanie Aplikacji Internetowych
+<b>PPP</b>, <b>OiRPOS</b>, <b>PAI</b> - Praktyka Programowania Python, Organizacja i Zarządzanie Projektami Open Source, Programowanie Aplikacji Internetowych
 
-Końcowy Projekt łączony z 3 przedmiotów // TODO hiperłącza
+[Końcowy Projekt łączony z 3 przedmiotów](https://github.com/pawel0705/PrzepisyKulinarne) - Aplikacja webowa przeznaczona do dodawania przepisów kulinarnych, ich przeglądanie, ocenianie i komentowanie. (Django + Angular)
 
 
 <b>ZAOWIR</b> - Zaawansowana Analiza Obrazu, Wideo i Ruchu
