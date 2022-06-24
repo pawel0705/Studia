@@ -122,7 +122,7 @@ Laboratorium // TODO hipełącza
 
 PwAG - Programowanie w API Graficznych. Utworzenie aplikacji graficznej w OpenGL.
 
-Końcowy Projekt // TODO hiperłącza
+[Końcowy Projekt](https://github.com/pawel0705/GraSkradankowaOpenGL) - Gra 3D utworzona w OpenGL C++.
 
 
 PGK - Programowanie Gier Komputerowych. Poruszanie zagadnień odnośnie tworzenia gier komputerowych.
@@ -130,29 +130,14 @@ PGK - Programowanie Gier Komputerowych. Poruszanie zagadnień odnośnie tworzeni
 Laboratorium // TODO hiperłącza
 
 
-PPP - Praktyka Programowania Python. Programowanie w języku Python.
+PPP, OiRPOS, PAI - Praktyka Programowania Python, Organizacja i Zarządzanie Projektami Open Source, Programowanie Aplikacji Internetowych
 
-Laboratorium // TODO hiperłącza
-
-
-OiRPOS - Organizacja i Zarządzanie Projektami Open Source
-
-Laboratorium // TODO hiperłącza
+Końcowy Projekt łączony z 3 przedmiotów // TODO hiperłącza
 
 
-PAI - Programowanie Aplikacji Internetowych
+<b>ZAOWIR</b> - Zaawansowana Analiza Obrazu, Wideo i Ruchu
 
-Laboratorium // TODO hiperłącza
-
-
-RRO - Rendering Realistycznych Obrazów
-
-Laboratorium // TODO hiperłącza
-
-
-ZAOWIR - Zaawansowana Analiza Obrazu, Wideo i Ruchu
-
-Laboratorium // TODO hiperłącza
+[Laboratorium](https://github.com/pawel0705/OpenCvImageOperations) - Analiza obrazów i wideo z zastosowaniem Pythona i biblioteki OpenCV.
 
 
 #### Semestr 3
@@ -169,9 +154,9 @@ Laboratorium // TODO hiperłącza
 Końcowy Projekt // TODO hiperłącza
 
 
-TPDiA - Teoria Przestrzeni Danych i Algorytmów
+<b>TPDiA</b> - Teoria Przestrzeni Danych i Algorytmów
 
-Końcowy Projekt // TODO hiperłącza
+[Końcowy Projekt](https://github.com/pawel0705/WykrywaniePomiarowOLAP) - Wykrywanie pomiarów OLAP z zastosowaniem metod głębokiego uczenia.
 
 
 ## Prace dyplomowe
