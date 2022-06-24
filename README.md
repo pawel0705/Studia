@@ -71,7 +71,7 @@ Laboratorium - pliki utracone :(
 
 <b>SMiW</b> - Systemy Mikroprocesorowe i Wbudowane. Tworzenie urządzeń zawierających mikroprocesory i ich oprogramowywanie.
 
-[Końcowy Projekt] // TODO hiperłącza
+[Końcowy Projekt](https://github.com/pawel0705/DataLogger) - zbudowanie i oprogramowanie urządzenia zbierającego temperaturę z otoczenia i zapisujące ją na kartę SD.
 
 
 BD - Bazy Danych.
