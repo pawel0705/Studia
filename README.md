@@ -1,7 +1,7 @@
 // TODO - umieścić laboratoria na githubie
 
 # Studia
-Repozytorium zawiera prace deweloperskie realizowane w trakcie studiowania.
+Repozytorium zawiera prace deweloperskie realizowane w trakcie studiowania. Repozytorium nie zawiera wszystkich prac. Po ich wykonaniu w ramach zajęć, nie zostały zapisane na własnym sprzęcie w celu ich późniejszego upublicznienia.
 
 ## Zawartość
 
