@@ -48,8 +48,6 @@ W tej sekcji zostaną wymienione i przedstawione hiperłącza do wykonanych prac
 
 <b>PK4</b> - Programowanie Komputerów 4. Programowanie obiektowe w języku C++.
 
-Laboratorium - pliki utracone :(
-
 [Końcowy Projekt](https://github.com/pawel0705/SimCity-2D-Game) - SimCity. Gra 2D napisana w obiektowym C++ z wykorzystaniem biblioteki multimedialnej SFML. Zarządzanie miastem.
 
 
@@ -81,23 +79,14 @@ Laboratorium - pliki utracone :(
 [Końcowy Projekt](https://github.com/pawel0705/Informacje-Turystyczne) - aplikacja bazodanowa webowa w .NET Core
 
 
-TM - Technologie Mobilne. Tworzenie prostych aplikacji mobilnych na telefony z systemem Android i iOS. Języki: Kotlin, Java, Swift.
-
-Laboratorium // TODO hiperłącza
-
 #### Semestr 6
 
-BIAI - Biologically Inspired Artificial Intelligence. Przedmiot poruszający zagadnienia sztucznej inteligencji i algorytmów ewolucyjnych.
+<b>BIAI</b> - Biologically Inspired Artificial Intelligence. Przedmiot poruszający zagadnienia sztucznej inteligencji i algorytmów ewolucyjnych.
 
-Końcowy Projekt // TODO hiperłącza
-
-
-BD2 - Bazy Danych 2. Wykonanie aplikacji bazodanowej.
-
-Końcowy Projekt // TODO hiperłącza
+[Końcowy Projekt](https://github.com/pawel0705/GeneticDrawing-ImageEvolution) - reprodukcja obrazu przy pomocy algorytmu ewolucyjnego
 
 
-GK - Grafika Komputerowa. Poruszane zagandniania z OpenGL i Unity.
+<b>GK</b> - Grafika Komputerowa. Poruszane zagandniania z OpenGL i Unity.
 
 Laboratorium
 
