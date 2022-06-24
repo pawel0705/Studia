@@ -6,9 +6,9 @@ Repozytorium zawiera prace deweloperskie realizowane w trakcie studiowania.
 ## Zawartość
 
 Foldery zawierają moje lub współtworzone prace deweloperskie realizowane w ramach toku nauczania na studiach m.in.:
+- aplikacje konsolowe, desktopowe i internetowe
 - aplikacje w Unity
 - proste gry 2D i 3D
-- aplikacje internetowe i desktopowe
 - sztuczne sieci neuronowe i uczenie maszynowe
 - zapytania bazodanowe
 - asembler
@@ -40,13 +40,13 @@ W tej sekcji zostaną wymienione i przedstawione hiperłącza do wykonanych prac
 
 <b>PK3</b> - Programowanie Komputerów 3. Programowanie obiektowe w języku C++.
 
-Laboratorium
+[Laboratorium](https://github.com/pawel0705/Studia/tree/main/PK3) - ćwiczenia realizowane w ramach zajęć
 
-Końcowy Projekt // TODO hiperłącza
+[Końcowy Projekt](https://github.com/pawel0705/Battle-City-2D-Game) - gra 2D napisana w obiektowym C++ z wykorzystaniem biblioteki multimedialnej SFML
 
 #### Semestr 4
 
-PK4 - Programowanie Komputerów 4. Programowanie obiektowe w języku C++.
+<b>PK4</b> - Programowanie Komputerów 4. Programowanie obiektowe w języku C++.
 
 Laboratorium
 
