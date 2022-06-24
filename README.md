@@ -24,7 +24,7 @@ W tej sekcji zostaną wymienione i przedstawione hiperłącza do wykonanych prac
 
 <b>PPK</b> - Podstawy Programowania Komputerów. Programowanie strukturalne w języku C++.
 
-Laboratorium
+[!Laboratorium](https://github.com/pawel0705/Studia/tree/main/PPK)
 
 Końcowy Projekt // TODO hiperłącza
 
