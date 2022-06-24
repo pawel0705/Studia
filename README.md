@@ -147,9 +147,9 @@ ESIwGK - Elementy Sztucznej Inteligencji w Grach Komputerowych
 Laboratorium // TODO hiperłącza
 
 
-SWiRR - Systemy Wirtualnej i Rozszerzonej Rzeczywistości
+<b>SWiRR</b> - Systemy Wirtualnej i Rozszerzonej Rzeczywistości
 
-Laboratorium // TODO hiperłącza
+[Laboratorium](https://github.com/pawel0705/Studia/tree/main/SWiRR) - Zajęcia laboratoryjne. Tworzenie aplikacji w Unity dla: Oculus Quest, HTC, rozszerzonej rzeczywistości.
 
 Końcowy Projekt // TODO hiperłącza
 
