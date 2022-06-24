@@ -53,7 +53,7 @@ Laboratorium - pliki utracone :(
 [Końcowy Projekt](https://github.com/pawel0705/SimCity-2D-Game) - SimCity. Gra 2D napisana w obiektowym C++ z wykorzystaniem biblioteki multimedialnej SFML. Zarządzanie miastem.
 
 
-<b>MS<\b> - Metody Statystyczne. Projekt statystyczny w języku R.
+<b>MS</b> - Metody Statystyczne. Projekt statystyczny w języku R.
 
 [Końcowy Projekt](https://github.com/pawel0705/Badanie-poziomu-rentownosci) - Zbadanie poziomu rentowności firmy w 2 latach z użyciem języka R.
 
