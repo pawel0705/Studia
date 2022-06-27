@@ -103,9 +103,9 @@ Końcowy Projekt // TODO hiperłącza
 ### Studia magisterskie
 
 #### Semestr 1
-PwAG - Programowanie w API Graficznych. Poruszane zagadnienia z OpenGL i DirectX.
+<b>PwAG</b> - Programowanie w API Graficznych. Poruszane zagadnienia z OpenGL i DirectX.
 
-Laboratorium // TODO hiperłącza
+[Końcowy Projekt](https://github.com/pawel0705/Studia/tree/main/PwSGU) - prototyp aplikacji AR w Unity. Skanowanie kodu QR i wyświetlanie karty pacjenta. Robione na symulatorze.
 
 
 <b>ZTPGK</b> - Zaawansowane Techniki Programowania Grafiki Komputerowej. Grafika wysokopoziomowa i niskopoziomowa.
