@@ -115,12 +115,12 @@ Laboratorium // TODO hiperłącza
 
 #### Semestr 2
 
-DGM - Dostępność w Grach Mobilnych. Poruszanie zagadnień niepełnosprwawności i tworzenia aplikacji dla takich osób.
+<b>DGM</b> - Dostępność w Grach Mobilnych. Poruszanie zagadnień niepełnosprwawności i tworzenia aplikacji dla takich osób.
 
-Laboratorium // TODO hipełącza
+[Laboratorium](https://github.com/pawel0705/Studia/tree/main/DGM) - zajęcia laboratoryjne. Prototyp gry na platformę Sifteo Cubes.
 
 
-PwAG - Programowanie w API Graficznych. Utworzenie aplikacji graficznej w OpenGL.
+<b>PwAG</b> - Programowanie w API Graficznych. Utworzenie aplikacji graficznej w OpenGL.
 
 [Końcowy Projekt](https://github.com/pawel0705/GraSkradankowaOpenGL) - Gra 3D utworzona w OpenGL C++.
 
