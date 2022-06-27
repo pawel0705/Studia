@@ -98,14 +98,14 @@ W tej sekcji zostaną wymienione i przedstawione hiperłącza do wykonanych prac
 
 <b>PwSGU</b> - Programowanie w Silniku Gier Unity. Tworzenie aplikacji z wykorzystaniem silnika Unity
 
-Końcowy Projekt // TODO hiperłącza
+[Końcowy Projekt](https://github.com/pawel0705/Studia/tree/main/PwSGU) - prototyp aplikacji AR w Unity. Skanowanie kodu QR i wyświetlanie karty pacjenta. Robione na symulatorze.
 
 ### Studia magisterskie
 
 #### Semestr 1
 <b>PwAG</b> - Programowanie w API Graficznych. Poruszane zagadnienia z OpenGL i DirectX.
 
-[Końcowy Projekt](https://github.com/pawel0705/Studia/tree/main/PwSGU) - prototyp aplikacji AR w Unity. Skanowanie kodu QR i wyświetlanie karty pacjenta. Robione na symulatorze.
+Laboratorium - // TODO
 
 
 <b>ZTPGK</b> - Zaawansowane Techniki Programowania Grafiki Komputerowej. Grafika wysokopoziomowa i niskopoziomowa.
