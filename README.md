@@ -142,9 +142,9 @@ Laboratorium // TODO hiperłącza
 
 #### Semestr 3
 
-ESIwGK - Elementy Sztucznej Inteligencji w Grach Komputerowych
+<b>ESIwGK</b> - Elementy Sztucznej Inteligencji w Grach Komputerowych
 
-Laboratorium // TODO hiperłącza
+[Laboratorium](https://github.com/pawel0705/Studia/tree/main/ESIwGK) - Zajęcia laboratoryjne. A-Star, Boids, NavMesh, Maszyna stanów, drzewo decyzyjne.
 
 
 <b>SWiRR</b> - Systemy Wirtualnej i Rozszerzonej Rzeczywistości
