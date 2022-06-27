@@ -108,9 +108,9 @@ PwAG - Programowanie w API Graficznych. Poruszane zagadnienia z OpenGL i DirectX
 Laboratorium // TODO hiperłącza
 
 
-ZTPGK - Zaawansowane Techniki Programowania Grafiki Komputerowej. Grafika wysokopoziomowa i niskopoziomowa.
+<b>ZTPGK</b> - Zaawansowane Techniki Programowania Grafiki Komputerowej. Grafika wysokopoziomowa i niskopoziomowa.
 
-Laboratorium // TODO hiperłącza
+[Laboratorium](https://github.com/pawel0705/Studia/tree/main/ZTPGK) - zajęcia laboratoryjne w silniku Unity.
 
 
 #### Semestr 2
