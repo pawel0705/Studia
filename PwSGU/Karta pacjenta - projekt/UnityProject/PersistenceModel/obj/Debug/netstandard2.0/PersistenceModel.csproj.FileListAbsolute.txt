@@ -1,0 +1,9 @@
+C:\Dev\GitHub\KartaPacjenta\UnityProject\PersistenceModel\bin\Debug\netstandard2.0\PersistenceModel.deps.json
+C:\Dev\GitHub\KartaPacjenta\UnityProject\PersistenceModel\bin\Debug\netstandard2.0\PersistenceModel.dll
+C:\Dev\GitHub\KartaPacjenta\UnityProject\PersistenceModel\obj\Debug\netstandard2.0\PersistenceModel.csprojAssemblyReference.cache
+C:\Dev\GitHub\KartaPacjenta\UnityProject\PersistenceModel\obj\Debug\netstandard2.0\PersistenceModel.AssemblyInfoInputs.cache
+C:\Dev\GitHub\KartaPacjenta\UnityProject\PersistenceModel\obj\Debug\netstandard2.0\PersistenceModel.AssemblyInfo.cs
+C:\Dev\GitHub\KartaPacjenta\UnityProject\PersistenceModel\bin\Debug\netstandard2.0\PersistenceModel.pdb
+C:\Dev\GitHub\KartaPacjenta\UnityProject\PersistenceModel\obj\Debug\netstandard2.0\PersistenceModel.csproj.CoreCompileInputs.cache
+C:\Dev\GitHub\KartaPacjenta\UnityProject\PersistenceModel\obj\Debug\netstandard2.0\PersistenceModel.dll
+C:\Dev\GitHub\KartaPacjenta\UnityProject\PersistenceModel\obj\Debug\netstandard2.0\PersistenceModel.pdb
