@@ -1,0 +1,6 @@
+frange	fdecline	fangle	ffov EstAlg
+0	1	1	1 2
+startx	starty	endx	endy
+10	10	90	90
+hitcounter	heuresticmulti	influecemulti
+2	10	1

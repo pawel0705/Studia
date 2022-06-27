@@ -1,0 +1,9 @@
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Alarm\bin\Debug\Alarm.exe
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Alarm\bin\Debug\Alarm.pdb
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Alarm\obj\Debug\Alarm.csproj.AssemblyReference.cache
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Alarm\obj\Debug\Alarm.Form1.resources
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Alarm\obj\Debug\Alarm.csproj.GenerateResource.cache
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Alarm\obj\Debug\Alarm.exe
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Alarm\obj\Debug\Alarm.pdb

@@ -1,0 +1,5 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  RoootClass.cpp
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Ruch CPP\RoootClass.h(56): warning C4715: 'TimeManager::Tick': not all control paths return a value
+RoootClass.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Ruch CPP.vcxproj -> C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Debug\Ruch CPP.exe

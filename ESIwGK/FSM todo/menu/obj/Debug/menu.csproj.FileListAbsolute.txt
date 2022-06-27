@@ -1,0 +1,9 @@
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\menu\bin\Debug\menu.exe
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\menu\bin\Debug\menu.pdb
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\menu\obj\Debug\menu.Form1.resources
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\menu\obj\Debug\menu.csproj.GenerateResource.cache
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\menu\obj\Debug\menu.exe
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\menu\obj\Debug\menu.pdb

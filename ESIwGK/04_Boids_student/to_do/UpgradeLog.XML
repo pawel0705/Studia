@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LabsTodo">
+</Property><Property Name="Solution File" Value="D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\LabsTodo.sln">
+</Property><Property Name="User Options File" Value="D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\LabsTodo.suo">
+</Property><Property Name="Date" Value="10 stycznia 2012">
+</Property><Property Name="Time" Value="12:23">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LabsTodo.sln" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\LabsTodo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LabsTodo.suo" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\LabsTodo.suo">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\I_4_Boids.csproj" Description="Project file successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\I_4_Boids.csproj">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\I_4_Boids.csproj.user" Description="Project user file successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\I_4_Boids.csproj.user">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\Boid.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\Boid.cs">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\Flock.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\Flock.cs">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\Form1.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\Form1.cs">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\Form1.Designer.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\Globals.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\Globals.cs">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\Program.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\Program.cs">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\vec3.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\vec3.cs">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\Properties\DataSources\Form1.datasource" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\Properties\DataSources\Form1.datasource">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\Properties\Settings.settings" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\Form1.resx" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\Form1.resx">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\Properties\Resources.resx" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_Boids\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\I_4_Boids.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="I_4_Boids" Source="I_4_Boids\I_4_Boids.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\I_4_2_SimpleBots.csproj" Description="Project file successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_2_SimpleBots\I_4_2_SimpleBots.csproj">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\I_4_2_SimpleBots.csproj.user" Description="Project user file successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_2_SimpleBots\I_4_2_SimpleBots.csproj.user">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\Bot.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_2_SimpleBots\Bot.cs">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\Form1.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_2_SimpleBots\Form1.cs">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\Form1.Designer.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_2_SimpleBots\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\Program.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_2_SimpleBots\Program.cs">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_2_SimpleBots\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_2_SimpleBots\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_2_SimpleBots\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\Updater.cs" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_2_SimpleBots\Updater.cs">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\Properties\Settings.settings" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_2_SimpleBots\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\Form1.resx" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_2_SimpleBots\Form1.resx">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\Properties\Resources.resx" Description="File successfully backed up as D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\Backup\I_4_2_SimpleBots\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\I_4_2_SimpleBots.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\I_4_2_SimpleBots.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LabsTodo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LabsTodo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="I_4_Boids" Source="I_4_Boids\I_4_Boids.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="I_4_2_SimpleBots" Source="I_4_2_SimpleBots\I_4_2_SimpleBots.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

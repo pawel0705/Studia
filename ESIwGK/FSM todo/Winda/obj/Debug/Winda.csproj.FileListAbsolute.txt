@@ -1,0 +1,9 @@
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Winda\bin\Debug\Winda.exe
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Winda\bin\Debug\Winda.pdb
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Winda\obj\Debug\Winda.csproj.AssemblyReference.cache
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Winda\obj\Debug\Winda.Form1.resources
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Winda\obj\Debug\Winda.Properties.Resources.resources
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Winda\obj\Debug\Winda.csproj.GenerateResource.cache
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Winda\obj\Debug\Winda.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Winda\obj\Debug\Winda.exe
+C:\Users\pawel\OneDrive\Pulpit\lab5\App\FSM todo\Winda\obj\Debug\Winda.pdb

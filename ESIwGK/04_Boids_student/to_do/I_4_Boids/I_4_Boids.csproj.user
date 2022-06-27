@@ -1,0 +1,12 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="Current">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartWorkingDirectory>U:\Dydaktyka\GAI\laborki\03 - Boids\bin\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>D:\użytkownicy\labGK\Downloads\03_Boids_todo_v2\to_do\I_4_Boids\..\..\bin\</ReferencePath>
+  </PropertyGroup>
+</Project>
