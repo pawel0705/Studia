@@ -149,7 +149,7 @@ W tej sekcji zostaną wymienione i przedstawione hiperłącza do wykonanych prac
 
 [Laboratorium](https://github.com/pawel0705/Studia/tree/main/SWiRR) - Zajęcia laboratoryjne. Tworzenie aplikacji w Unity dla: Oculus Quest, HTC, rozszerzonej rzeczywistości.
 
-Końcowy Projekt // TODO hiperłącza
+[Końcowy Projekt](https://github.com/pawel0705/Mobilny-Atlas) - Mobilny Atlas. Prototyp aplikacji mobilnej AR.
 
 
 <b>TPDiA</b> - Teoria Przestrzeni Danych i Algorytmów
