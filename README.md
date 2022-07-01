@@ -105,7 +105,7 @@ W tej sekcji zostaną wymienione i przedstawione hiperłącza do wykonanych prac
 #### Semestr 1
 <b>PwAG</b> - Programowanie w API Graficznych. Poruszane zagadnienia z OpenGL i DirectX.
 
-Laboratorium - // TODO
+[Laboratorium](https://github.com/pawel0705/Studia/tree/main/PwAG) - uzupełnianie kodu OpenGL/DirectX
 
 
 <b>ZTPGK</b> - Zaawansowane Techniki Programowania Grafiki Komputerowej. Grafika wysokopoziomowa i niskopoziomowa.
