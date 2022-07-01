@@ -1,5 +1,3 @@
-// TODO - umieścić laboratoria na githubie
-
 # Studia
 Repozytorium zawiera laboratoria realizowane w trakcie studiowania. Większe programy znajdują się w osobnych repozytoriach, do których są zamieszczone tutaj hiperłącza. Repozytorium nie zawiera wszystkich prac realizowanych na uczelni. Po ich wykonaniu w ramach zajęć, nie zostały zapisane na własnym sprzęcie w celu ich późniejszego upublicznienia.
 
@@ -125,9 +123,9 @@ W tej sekcji zostaną wymienione i przedstawione hiperłącza do wykonanych prac
 [Końcowy Projekt](https://github.com/pawel0705/GraSkradankowaOpenGL) - Gra 3D utworzona w OpenGL C++.
 
 
-PGK - Programowanie Gier Komputerowych. Poruszanie zagadnień odnośnie tworzenia gier komputerowych.
+<b>PGK</b> - Programowanie Gier Komputerowych. Poruszanie zagadnień odnośnie tworzenia gier komputerowych.
 
-Laboratorium // TODO hiperłącza
+[Laboratorium](https://github.com/pawel0705/Studia/tree/main/PGK) - utworzenie 2 prostych prototypów gier prezentujących główną mechanikę w Unity.
 
 
 <b>PPP</b>, <b>OiRPOS</b>, <b>PAI</b> - Praktyka Programowania Python, Organizacja i Zarządzanie Projektami Open Source, Programowanie Aplikacji Internetowych
