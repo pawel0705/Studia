@@ -163,7 +163,7 @@ Prace dyplomowe zrealizowane w trakcie studiów.
 
 ### Praca inżynierska
 
-// TODO
+[Blind Car Rally](https://github.com/pawel0705/Blind-Car-Rally) - Mobilna gra dźwiękowa dla osób niewidomych - Rajd Wyścigowy. Gracz wciela się w kierowcę samochodu i bierze udział w rajdzie wyścigowym. Słucha poleceń pilota i dźwięków otoczenia.
 
 ### Praca magisterska
 
