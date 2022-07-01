@@ -163,11 +163,17 @@ Prace dyplomowe zrealizowane w trakcie studiów.
 
 ### Praca inżynierska
 
+Opracowanie gry dla niewidomych osób.
+
 [Blind Car Rally](https://github.com/pawel0705/Blind-Car-Rally) - Mobilna gra dźwiękowa dla osób niewidomych - Rajd Wyścigowy. Gracz wciela się w kierowcę samochodu i bierze udział w rajdzie wyścigowym. Słucha poleceń pilota i dźwięków otoczenia.
 
 ### Praca magisterska
 
-// TODO
+Generowanie modelu terenu z zastosowaniem metod głębokiego uczenia.
+
+[Zestaw jupyter notebooków](https://github.com/pawel0705/TerrainArtificialIntelligence) - Zestaw jupyter notebooków, przygotowujących wyuczony model głębokiej sieci neuronowej. Zastosowano architekturę pix2pix (architektura sieci neuronowej GAN).
+
+[Aplikacja Unity](https://github.com/pawel0705/DeepLearningTerrainGeneration) - Aplikacja Unity w której użytkownik szkicuje teren, a na podstawie szkicu wyuczony model głębokiej sieci generuje trójwymiarowy model terenu.
 
 ## Współautorstwo 
 
